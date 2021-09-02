@@ -1,0 +1,2 @@
+# NarouTextJavaScriptParser
+小説家になろうのテキストをJavaScriptでhtmlに変換します。
